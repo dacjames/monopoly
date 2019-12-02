@@ -1,0 +1,7 @@
+{
+    "name": "monopoly",
+    "projects": {
+        "app1": [ "app1", "lib1", "lib2" ],
+        "app2": [ "app2", "lib1", "lib3" ]
+    }
+}
